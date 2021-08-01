@@ -1,0 +1,3 @@
+public enum CHOSEN_SHAPE {
+    CIRCLE, RECTANGLE, SQUARE
+}
